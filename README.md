@@ -74,7 +74,7 @@ The difference between notebook and Kaggle score suggests:
 
 The following scatter plot visualizes how well the model’s predictions match the real accident risk:
 
-![Predicted vs Actual](model-plot.png)
+![Predicted vs Actual](model_plot.png)
 
 The overall diagonal trend indicates the model is learning patterns — but there's still noise and uncertainty, especially with sparse regions.
 
